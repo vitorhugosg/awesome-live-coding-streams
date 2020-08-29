@@ -25,6 +25,8 @@ https://www.twitch.tv/danielhe4rt
 
 https://www.twitch.tv/paulo_kiitasu
 
+https://www.twitch.tv/levantelab
+
 
 # Python
 
@@ -64,6 +66,8 @@ https://www.twitch.tv/juhbotelho
 https://www.twitch.tv/glaucia_lemos86
 
 https://www.twitch.tv/lemonoob
+
+https://www.twitch.tv/levantelab
 
 # TypeScript
 
